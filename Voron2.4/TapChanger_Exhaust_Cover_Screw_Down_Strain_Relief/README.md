@@ -16,6 +16,6 @@ For added strain relief, bend a 1.20mm metal wire under the TPU parts like so:
 ## Bill of Materials
 
 | Part | Quantity | Description
----------------------
+|---|---|---|
 | M3 x 8mm BHCS | 12 | 2 per strain relief parts
 | M3 heat insert | 12 | For the exhaust cover
